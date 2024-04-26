@@ -1,3 +1,3 @@
-# LINGUA
+# Novi repozitorij
 
-Lingua škola stranih jezika
+Repozitorij
